@@ -1,5 +1,5 @@
 # Personal-Projects
-1) SimpleValorantBot.py
+SimpleValorantBot.py
 Simple discord bot that has features:
 valorant is an online game by Riot games: https://playvalorant.com/en-us/
 1) determine when bot is online/offline
