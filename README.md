@@ -1,7 +1,6 @@
 # Personal-Projects
-SimpleValorantBot.py
 (Valorant is an online game by Riot games: https://playvalorant.com/en-us/)
-Simple discord bot that has features:
+SimpleValorantBot.py is a simple discord bot that has features:
 1) determine when bot is online/offline
 2) 8ball: user types valorant/general type of question in form 'valrng' or with '8ball'/'valgods'; returns a random answer in the response array
 3) aimtrain: gives user a random amount of time given in minutes as to how long they should aimtrain given the amount of losses they have from their career page
