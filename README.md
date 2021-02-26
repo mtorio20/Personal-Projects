@@ -1,5 +1,6 @@
 # Personal-Projects
 (Valorant is an online game by Riot games: https://playvalorant.com/en-us/)
+
 SimpleValorantBot.py is a simple discord bot that has features:
 1)determine when bot is online/offline
 
